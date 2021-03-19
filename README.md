@@ -20,13 +20,18 @@
 ## Languages and tools
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="50"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="50"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="50"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" height="50"/>
+
 </p>
 
 ## Learning
 <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="kotlin" width="50" height="50"/> 
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="50" height="50"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="50"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="50"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" height="50"/> 
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="50"/> 
 </p>
