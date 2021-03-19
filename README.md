@@ -11,8 +11,8 @@
 </p>
 
 ## About me
-  - <img src="https://image.flaticon.com/icons/svg/2983/2983719.svg" widht = "15" height="18"> I'm 20 years old
-  - <img src="https://image.flaticon.com/icons/svg/1656/1656768.svg" widht="20" height="20"> Currently studying System Analysis at University of Buenos Aires, in Argentina <img src="https://image.flaticon.com/icons/svg/321/321211.svg" width="15" height="15"/>
+  - <img src="https://image.flaticon.com/icons/svg/2983/2983719.svg" widht = "15" height="18"> I'm 21 years old
+  - <img src="https://image.flaticon.com/icons/svg/1656/1656768.svg" widht="20" height="20"> Currently studying System Analysis at University of Buenos Aires, in Argentina <img src="https://image.flaticon.com/icons/svg/321/321211.svg" width="15" height="15"/> and taking the Certified Tech Developer course dictated by Digital House
   - ❤️ I feel that learning is my drive, and I'd love to work with people who feel the same way
   - 📝 Check my resume (in spanish) <a href="https://drive.google.com/file/d/1wuJPo5--tjaWs8y9LQeDgI1ULjYrLLFO/view?usp=sharing">here</a>
   - 📝 Check my portfolio (still in progress) <a href="https://valva-ro.github.io/">here</a>
