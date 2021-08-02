@@ -14,6 +14,7 @@
   - <img src="https://image.flaticon.com/icons/svg/2983/2983719.svg" widht = "15" height="18"> I'm 21 years old
   - <img src="https://image.flaticon.com/icons/svg/1656/1656768.svg" widht="20" height="20"> Currently studying System Analysis at University of Buenos Aires, in Argentina <img src="https://image.flaticon.com/icons/svg/321/321211.svg" width="15" height="15"/> and taking the Certified Tech Developer course dictated by Digital House
   - ❤️ I feel that learning is my drive, and I'd love to work with people who feel the same way
+  - Check my resume in<a href="https://drive.google.com/file/d/1EAPl9a4CG0Oavh-8ppZb4KlMpQiD2t7j/view?usp=sharing">english</a> or <a href="https://drive.google.com/file/d/1lkogHgOy-29RoY29M5b1KpCdbxORXYIS/view?usp=sharing">spanish</a>
 
 ## Languages and tools
 
