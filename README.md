@@ -1,7 +1,11 @@
 ## Hey there, I'm Valentina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=valva-ro&show_icons=true" alt="valva-ro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valva-ro&show_icons=true&theme=midnight-purple" alt="valva-ro" />
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valva-ro&layout=compact&langs_count=5&theme=midnight-purple" alt="valva-ro" />
 </p>
 
 ## About me
