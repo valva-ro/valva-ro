@@ -13,7 +13,7 @@
   - 🧑‍🎓 Currently studying System Analysis at ORT, in Argentina 🇦🇷
   - In 2021, I was awarded a scholarship and completed the Certified Tech Developer course at Digital House. This is where I acquired the skills that landed me my current job.
   - ❤️ I feel that learning is my drive, and I'd love to work with people who feel the same way
-  - Check my resume in <a href="https://drive.google.com/file/d/1f3uBLX0Go-nowywg8ayXyQsUAFer43O6/view?usp=share_link">english</a> or <a href="https://drive.google.com/file/d/1-nntU6ybawDLLGUzWsmL6SKmH-h8Qco0/view?usp=share_link">spanish</a>
+  - Check my resume in <a href="https://drive.google.com/file/d/1f3uBLX0Go-nowywg8ayXyQsUAFer43O6/view?usp=share_link">english</a> or <a href="https://drive.google.com/file/d/1c0HsI-H5dnm8sUxWWAyt-n3ltAriRoCg/view?usp=sharing">spanish</a>
 
 ## Languages and tools
 
