@@ -9,8 +9,9 @@
 </p>
 
 ## About me
-  - <img src="https://image.flaticon.com/icons/svg/2983/2983719.svg" widht = "15" height="18"> I'm 21 years old
-  - <img src="https://image.flaticon.com/icons/svg/1656/1656768.svg" widht="20" height="20"> Currently studying System Analysis at University of Buenos Aires, in Argentina <img src="https://image.flaticon.com/icons/svg/321/321211.svg" width="15" height="15"/> and taking the Certified Tech Developer course dictated by Digital House
+  - 📅 I'm 23 yo
+  - 🧑‍🎓 Currently studying System Analysis at ORT, in Argentina 🇦🇷
+  - In 2021, I was awarded a scholarship and completed the Certified Tech Developer course at Digital House. This is where I acquired the skills that landed me my current job.
   - ❤️ I feel that learning is my drive, and I'd love to work with people who feel the same way
   - Check my resume in <a href="https://drive.google.com/file/d/1EAPl9a4CG0Oavh-8ppZb4KlMpQiD2t7j/view?usp=sharing">english</a> or <a href="https://drive.google.com/file/d/1lkogHgOy-29RoY29M5b1KpCdbxORXYIS/view?usp=sharing">spanish</a>
 
@@ -25,10 +26,12 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="50"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="50"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="50"/>
+  <img src="https://img.shields.io/badge/React-23BAE0?style=for-the-badge&logo=react&logoColor=white" alt="react" height="50"/>
+  <img src="https://img.shields.io/badge/spring-64B742?style=for-the-badge&logo=spring&logoColor=white" alt="spring" height="50"/>
 </p>
 
 ## Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/React-23BAE0?style=for-the-badge&logo=react&logoColor=white" alt="react" height="50"/>
-  <img src="https://img.shields.io/badge/spring-64B742?style=for-the-badge&logo=spring&logoColor=white" alt="spring" height="50"/>
+  <img src="https://img.shields.io/badge/redis-code?style=for-the-badge&logo=redis&logoColor=white&color=red" alt="redis" height="50"/> 
+  <img src="https://img.shields.io/badge/elasticsearch-code?style=for-the-badge&logo=redis&logoColor=white&color=orange" alt="redis" height="50"/> 
 </p>
